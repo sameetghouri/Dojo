@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+/* base styles */
+* {
+  margin: 0;
+  font-family: "Quicksand";
+  color: #333;
+}
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 0 auto;
+  border-bottom: 2px solid #f3f3f3;
+}
+.navbar h1 {
+  color: #a7109a;
+}
+.navbar .links {
+  margin-left: auto;
+}
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #0077d8;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.blog-preview{
+  padding: 10px 16px;
+  margin: 20px 0;
+  border-bottom:1px solid #f3f3f3;
+}
+.blog-preview:hover{
+  box-shadow: 1px 2px 3px rgb(138, 138, 138);
+}
+.blog-preview h2 {
+  font-size: 20px;
+  color: #a7109a;
+  margin-bottom: 8px;
+}
+.blog-preview a {
+ text-decoration: none;
+}
+.blog-details h2{
+font-size: larger;
+color: #a7109a;
+margin-bottom: 10px;  
+}
+.blog-details h4{
+  margin-bottom: 5px;
+}
+.create {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+.create label {
+  text-align: left;
+  display: block;
+}
+.create h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.create input, .create textarea, .create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 2px solid rgb(240, 240, 240);
+  box-sizing: border-box;
+  display: block;
+}
+.create button {
+  background: #f1356d;
+  color: #fff;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;}
+
+.blog-details button {
+  background-color: #da3e46;
+  color: #fff;
+  border: 0;
+  margin-top: 10px;
+  padding-inline: 30px;
+  padding-block: 10px;
+  border-radius: 5px;
+
+}
+#editbutton {
+  background-color: rgb(17, 216, 140);
+  text-decoration: none;
+  margin-right: 10px ;
+  color: #fff;
+  border: 0;
+  margin-top: 10px;
+  padding-inline: 30px;
+  padding-block: 8px;
+  border-radius: 5px;
+}
+.notfound a{
+  text-decoration: none;
+  font-size: 40px;
+  color: #a7109a;
+}
+.editblog h2{
+  
+    font-size: larger;
+    color: #a7109a;
+    margin-bottom: 10px;  
+}
+.editblog h4{
+      margin-bottom: 5px;
+    }
+
+.editblog button{
+  background-color: #2179ec;
+  color: #fff;
+  border: 0;
+  margin-top: 10px;
+  padding-inline: 30px;
+  padding-block: 10px;
+  border-radius: 5px;
+}
+
+.editblog {
+  max-width: 500px;
+  margin: 0 auto;
+  text-align: center;
+}
+.editblog label {
+  text-align: left;
+  display: block;
+}
+.editblog h2 {
+  font-size: 20px;
+  color: #f1356d;
+  margin-bottom: 30px;
+}
+.editblog input , .editblog select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 2px solid rgb(240, 240, 240);
+  box-sizing: border-box;
+  display: block;
+}
+.editblog textarea {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 2px solid rgb(240, 240, 240);
+  box-sizing: border-box;
+  display: block;
+}
