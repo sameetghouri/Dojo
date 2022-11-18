@@ -37,8 +37,8 @@ const Home = () => {
             {error && <div>{error}</div>}
             {isloading && <div><h3>Loading... </h3></div>}
             {data && <Bloglist blogs={data} title="All Blogs!" />}
-            {data && <Bloglist blogs={data.filter((data)=>data.author==='Mario')} title="Marios Blog"/>}
-            {data && <Bloglist blogs={data.filter((data)=>data.author==='Yoshi')} title="Yoshi Blog"/>}
+            {data && <Bloglist blogs={data.filter((d)=>d.author==='Mario')} title="Marios Blog"/>}
+            {data && <Bloglist blogs={data.filter((d)=>d.author==='Yoshi')} title="Yoshi Blog"/>}
             {/* <button onClick={()=>setName("Lusi")}>Change Name</button>
             <p>{name}</p> */}
             {/* <Bloglist blogs={blog.filter((blog)=>blog.author==='mario')} title="Marios Blog"/> */}

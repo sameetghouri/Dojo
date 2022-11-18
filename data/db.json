@@ -1,9 +1,9 @@
 {
   "blogs": [
     {
-      "title": "Luxembourg",
-      "body": "This is our last full day in Luxembourg. I am feeling better - thanks for asking - and was up during the night keeping the medication routine unbroken. It may have worked.\nNatalia drove down to the P.O today to pick up a light fitting she ordered a month ago , which was fortunate for me. I was relaxing, lost in a book, when the door alarm from downstairs announced her arrival. It was similar to the knights trumpeting in the arrival of royalty, but louder.\n\nLuckily my son in Oz is an electrician, so I remember the advice he gave me a week ago on how to hardwire a light fitting. I’ve done it before but who knows what’s what over here. Did you know that in England you could, maybe still can, earn an electrical wiring badge in the scouts? It’s like a mini mini apprenticeship. My daughter in law had one, and if she’s to be believed, she performed a few minor wiring jobs in her youth. She is married to the electrician, and I’m pretty confident that he has never called on her for electrical advice",
-      "author": "Mario",
+      "title": "Ganda Bacha",
+      "body": "This is our last full day in Luxembourg. I am feeling better - thanks for asking - and was up during the night keeping the medication routine unbroken. It may have.\nNatalia drove down to the P.O today to pick up a light fitting she ordered a month ago , which was fortunate for me. I was relaxing, lost in a book, when the door alarm from downstairs announced her arrival. It was similar to the knights trumpeting in the arrival of royalty, but louder.\n\nLuckily my son in Oz is an electrician, so I remember the advice he gave me a week ago on how to hardwire a light fitting. I’ve done it before but who knows what’s what over here. Did you know that in England you could, maybe still can, earn an electrical wiring badge in the scouts? It’s like a mini mini apprenticeship. My daughter in law had one, and if she’s to be believed, she performed a few minor wiring jobs in her youth. She is married to the electrician, and I’m pretty confident that he has never called on her for electrical advice",
+      "author": "Yoshi",
       "id": 1
     },
     {
@@ -29,6 +29,18 @@
       "body": "This is blog content",
       "author": "Mario",
       "id": 12
+    },
+    {
+      "title": "SSSD",
+      "body": "JJJJLLLLL",
+      "author": "Yoshi",
+      "id": 13
+    },
+    {
+      "title": "AQAQ",
+      "body": "dfg hghfv ggg",
+      "author": "Mario",
+      "id": 14
     }
   ]
 }
